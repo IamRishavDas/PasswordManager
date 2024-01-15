@@ -142,7 +142,7 @@ public class GeneratePassword extends javax.swing.JFrame {
                 
                 String url = "jdbc:mysql://localhost:3306/password_app";
                 String user = "root";
-                String password = "rootp@$$?0RD";
+                String password = "password";
                 // below two lines are used for connectivity.
                 
                 Class.forName("com.mysql.cj.jdbc.Driver");
