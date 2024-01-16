@@ -12,7 +12,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author Risha
+ * @author Rishav
  */
 public class SearchPassword extends javax.swing.JFrame {
 

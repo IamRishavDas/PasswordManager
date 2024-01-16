@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Risha
+ * @author Rishav
  */
 public class HomeScreen extends javax.swing.JFrame {
 

@@ -13,7 +13,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author Risha
+ * @author Rishav
  */
 public class GeneratePassword extends javax.swing.JFrame {
 

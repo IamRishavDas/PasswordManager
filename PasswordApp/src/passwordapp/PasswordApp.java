@@ -6,7 +6,7 @@ package passwordapp;
 
 /**
  *
- * @author Risha
+ * @author Rishav
  */
 public class PasswordApp {
 
