@@ -4,6 +4,8 @@ Dynamic Password Manager Using Java Swing GUI and MySQL
 The Java Application consist of interactive user inserface to save and retrive password from database.
 The database does not consist any encription algorithm for security, all the data is stored in text format.
 
+![Generate Password](https://github.com/IamRishavDas/PasswordManager/assets/140265067/f241f0bd-64f6-48e4-b344-f7f2c67fb626)
+
 The project is divided into 3 parts 
   1. creating MySQL database in local server
   2. creating Swing appliaction
