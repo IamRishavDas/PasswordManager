@@ -6,6 +6,9 @@ The database does not consist any encription algorithm for security, all the dat
 
 ![Generate Password](https://github.com/IamRishavDas/PasswordManager/assets/140265067/f241f0bd-64f6-48e4-b344-f7f2c67fb626)
 
+![Search Password](https://github.com/IamRishavDas/PasswordManager/assets/140265067/c3307709-3fda-4c43-855a-70bb3052119f)
+
+
 The project is divided into 3 parts 
   1. creating MySQL database in local server
   2. creating Swing appliaction
